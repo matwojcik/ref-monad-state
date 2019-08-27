@@ -1,3 +1,3 @@
-# Scala playground
+# Ref based monad state
 
-Set of favourite libraries to play a little bit.
+In progress

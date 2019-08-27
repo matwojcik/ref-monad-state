@@ -1,4 +1,4 @@
-package matwojcik.movies
+package matwojcik
 
 object config {
   case class Config(http: HttpConfig)

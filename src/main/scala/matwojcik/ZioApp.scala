@@ -1,4 +1,4 @@
-package matwojcik.movies
+package matwojcik
 
 import java.util.concurrent.Executors
 
